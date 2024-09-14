@@ -1,0 +1,41 @@
+Source,Scraped_category,id,Url
+BBC,Israel-Gaza War,0c92b177-4544-4046-9b06-e428e46f72de,https://www.bbc.com/news/topics/c2vdnvdg6xxt
+BBC,War in Ukraine,555e4b6e-6240-4526-8a00-fed231e6ff74,https://www.bbc.com/news/war-in-ukraine
+BBC,US Election,37cc4793-d90a-4e83-993d-36c4144c8d5f,https://www.bbc.com/news/topics/cj3ergr8209t
+BBC,US & Canada,db5543a3-7985-4b9e-8fe0-2ac6470ea45b,https://www.bbc.com/news/us-canada
+BBC,UK,27d91e93-c35c-4e30-87bf-1bd443496470,https://www.bbc.com/news/uk
+BBC,Africa,f7905f4a-3031-4e07-ac0c-ad31eeb6a08e,https://www.bbc.com/news/world/africa
+BBC,Asia,ec977d36-fc91-419e-a860-b151836c176b,https://www.bbc.com/news/world/asia
+BBC,Australia,3307dc97-b7f0-47be-a1fb-c988b447cc72,https://www.bbc.com/news/world/australia
+BBC,Europe,e2cc1064-8367-4b1e-9fb7-aed170edc48f,https://www.bbc.com/news/world/europe
+BBC,Latin America,16d132f4-d562-4256-8b68-743fe23dab8c,https://www.bbc.com/news/world/latin_america
+BBC,Middle East,b08a1d2f-6911-4738-825a-767895b8bfc4,https://www.bbc.com/news/world/middle_east
+BBC,In Pictures,1da310d9-e5c3-4882-b7a8-ffc09608054d,https://www.bbc.com/news/in_pictures
+BBC,BBC InDepth,urn:bbc:tipo:list:47ec928a-b989-4ead-892e-844347750aec,https://www.bbc.com/news/bbcindepth
+BBC,BBC Verify,9559fc2e-5723-450d-9d89-022b8458cc8d,https://www.bbc.com/news/reality_check
+BBC,Executive Lounge,0dcffdd7-5bf4-4026-98d6-7107cf752143,https://www.bbc.com/business/executive-lounge
+BBC,Technology of Business,43a57796-e943-46d4-9378-71c65c25f899,https://www.bbc.com/business/technology-of-business
+BBC,Women at the Helm,131377f4-98ff-4040-a984-07e877583704,https://www.bbc.com/business/women-at-the-helm
+BBC,Future of Business,61b43b44-ce44-4a44-8633-52721125b3c7,https://www.bbc.com/business/future-of-business
+BBC,Technology,092c7c94-aa9b-4933-9349-eb942b3bde77,https://www.bbc.com/innovation/technology
+BBC,Science & Health,3ede9019-251f-4ca5-bc05-cabba07c399e,https://www.bbc.com/innovation/science
+BBC,Artificial Intelligence,6d032332-6ce5-425b-85a6-f260355718b3,https://www.bbc.com/innovation/artificial-intelligence
+BBC,AI v the Mind,31a9c448-24ff-413e-afc3-bb52f7ddcbc4,https://www.bbc.com/innovation/ai-v-the-mind
+BBC,Film & TV,472d4624-6af2-4f60-8c4e-04fbfd27b71e,https://www.bbc.com/culture/film-tv
+BBC,Music,15686dd0-fe09-4c76-b945-ba46a437ef1e,https://www.bbc.com/culture/music
+BBC,Art & Design,725f0e5f-3088-4d0f-8e28-e8349dd71ecc,https://www.bbc.com/culture/art
+BBC,Style,7f384459-da99-4f21-bdf7-dcb7da408140,https://www.bbc.com/culture/style
+BBC,Books,007bab80-dc46-4634-94b5-e4820f6bfd21,https://www.bbc.com/culture/books
+BBC,Entertainment News,1b3752e6-3f54-49a5-b4ac-eea4aec017aa,https://www.bbc.com/culture/entertainment-news
+BBC,Destinations,458d5052-eb9a-43c3-9482-5a6d06eb7449,https://www.bbc.com/travel/destinations
+BBC,World’s Table,9ac84b60-229d-4821-b8b5-acd773eff973,https://www.bbc.com/travel/worlds-table
+BBC,Culture & Experiences,93de7bf1-db6e-4ffe-bfad-d758d5d8d6d6,https://www.bbc.com/travel/cultural-experiences
+BBC,Adventures,857e427e-fbfe-45b4-a823-a16338a697a8,https://www.bbc.com/travel/adventures
+BBC,The SpeciaList,3762c4ea-12aa-4b4b-a878-928b740c0739,https://www.bbc.com/travel/specialist
+BBC,Natural Wonders,63bd1dde-e114-40a8-89a4-d17728bda0df,https://www.bbc.com/future-planet/natural-wonders
+BBC,Weather & Science,696fca43-ec53-418d-a42c-067cb0449ba9,https://www.bbc.com/future-planet/weather-science
+BBC,Climate Solutions,5fa7bbe8-5ea3-4bc6-ac7e-546d0dc4a16b,https://www.bbc.com/future-planet/solutions
+BBC,Sustainable Business,9f0b9075-b620-4859-abdc-ed042dd9ee66,https://www.bbc.com/future-planet/sustainable-business
+BBC,Green Living,9f0b9075-b620-4859-abdc-ed042dd9ee66,https://www.bbc.com/future-planet/green-living
+BBC,Live News,812bfeed-1e22-4348-b106-4f110ae6ec17,https://www.bbc.com/live/news
+BBC,Live Sport,fc6f88e0-7c0f-437a-8d97-79dda25d4b64,https://www.bbc.com/live/sport

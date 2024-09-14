@@ -1,0 +1,19 @@
+{% extends "articles/base.html" %}
+{% block content %}
+    {% for post in articles %}
+        <article class="media content-section" style=" border: 2px solid #ccc; padding: 15px; border-radius: 12px;">
+          <div class="media-body">
+            <div class="article-metadata">
+              <small class="text-muted">{{ post.Publication_date }}</small>
+              <p class="text-right">
+                 Source : {{ post.Source }}
+              </p>
+              
+            </div>
+            <h2><a class="article-title" href='{{ post.Article_Url }}' target="_blank">{{ post.Title }}</a></h2>
+            <p class="article-content">{{ post.Summary }}</p>
+          </div>
+        </article>
+        <br>  
+    {% endfor %}
+{% endblock content %}
